@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 teste de alteração no arquivo 3
 
 o merge seu lixo
+=======
+teste de alteração no arquivo 3 e novo
+>>>>>>> 74fd4c950fed0dcce4dfa8a6af14104326153dbd
