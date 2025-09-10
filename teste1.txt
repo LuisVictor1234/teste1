@@ -1,1 +1,30 @@
-novo texto
+Alocação de funcionários
+1x Gerente de Projetos - 8k
+1x Designer UX/UI - 4k
+3x Dev - 5k 
+
+Equipe - Dev
+12x - 180k
+Bônus - 5k
+Total - 195k
+
+Equipe - Design
+6x - 24k
+Bônus - 2k
+Total - 26k
+
+Equipe - Gerência
+12 x - 96k
+Bônus - 8k
+Total - 104k
+
+Custos (Infra, Licenças, etc...)
+15% - 48.75k
+
+Riscos
+20% - 65k
+
+Lucro
+30% - 97.5k
+
+R$ 536.250,00
